@@ -17,8 +17,8 @@ The HTTP GET method would be used for retrieval while a POST method should be us
 
 Examples:
 
-GET /str/keys/some-key ==> fetches string for "some-key"
-POST /str/keys/foo-key ==> stores string for "foo-key"
+* GET /str/keys/some-key ==> fetches string for "some-key"
+* POST /str/keys/foo-key ==> stores string for "foo-key"
 
 #### Extra credit features
 
