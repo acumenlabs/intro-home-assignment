@@ -32,7 +32,7 @@ Examples:
 You should use the following tools to accomplish this task:
 
  - node.js
- - express.js
+ - express.js (recommended but not mandatory)
 
 If you have any questions, please ask!
 
