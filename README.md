@@ -4,7 +4,7 @@ As part of our application process, we'd like to see what you can produce by giv
 
 ## The assignment
 
-We would like you to create a simple key/value store using node.js and sqlite.
+We would like you to create a simple key/value store using node.js.
 Specifically, we need to create an HTTP server which will respond to the following requests -
 
  - [ ] Store a specific string for key
@@ -25,6 +25,7 @@ Examples:
  - [ ] Support for arrays and/or complex objects
  - [ ] Add methods for retrieving all keys / values
  - [ ] Tests
+ - [ ] Use sqlite for persistent storage
 
 ## Requirements
 
